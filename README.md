@@ -2,6 +2,10 @@
 
 Welcome to my Competitive Programming Repository! This repository is a collection of solutions to various competitive programming problems that I solve daily. The problems span across multiple domains including Data Structures, Algorithms, and Basics, aiming to sharpen my skills and prepare for competitive programming contests.
 
+## Purpose
+
+There are people who want to see solutions to problems collected in one place from easy to more difficult levels. This is a reference for you and me. I also want to convey the benefit to as many people as possible.
+
 ## Contents
 
 - [Competitive Programming Sites](#competitive-programming-sites)
