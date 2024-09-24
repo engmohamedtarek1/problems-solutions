@@ -13,5 +13,3 @@ var twoSum = function(nums, target) {
               return result;
           }
 };
-
-console.log(twoSum([1, 2, 3, 4], 4))
